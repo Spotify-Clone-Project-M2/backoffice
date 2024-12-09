@@ -1,7 +1,7 @@
 {
-  "name": "spotify-backoffice",
+  "name": "spotify-back-office",
   "description": "Spotify clone using Next.js",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
