@@ -26,6 +26,7 @@
     "hooks",
     "config",
     "settings",
-    "init"
+    "init",
+    "dependencies"
   ]
 }
